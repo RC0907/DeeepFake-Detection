@@ -1,6 +1,6 @@
-Neural Network Model for Deepfake Detection
+Convolutional Neural Network Model for Deepfake Detection
 
-This repository contains a neural network model trained to detect deepfake images. The model is trained on a dataset comprising images generated from popular deepfake platforms and real images taken from TV series and movies.
+This repository contains a convolutional neural network model trained to detect deepfake images. The model is trained on a dataset comprising images generated from popular deepfake platforms and real images taken from TV series and movies.
 
 Key Features
 
